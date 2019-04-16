@@ -19,7 +19,6 @@ def second_challenge
     val.each do |value|
     flat_list << value
 
-   binding.pry
     end
   end
 
