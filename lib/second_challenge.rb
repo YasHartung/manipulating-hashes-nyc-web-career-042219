@@ -21,6 +21,7 @@ def second_challenge
 
     end
   end
+  flat_list
 
 
 end
